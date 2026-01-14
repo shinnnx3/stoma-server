@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+numpy>=1.26.0
+opencv-python-headless
+ultralytics
+pillow
+supabase
+pydantic
+torch>=2.1.0
+torchvision>=0.16.0
