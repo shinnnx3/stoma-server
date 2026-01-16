@@ -301,7 +301,7 @@ TREATMENT_DATA = {
     "짓무름": { "description": "습기로 인해 피부가 하얗게 붓는 '짓무름'이 의심됩니다.", "advice": "핵심은 '건조'입니다. 드라이기(찬바람)로 말리고 파우더와 보호 필름을 사용하여 뽀송하게 만드십시오.", "emergency_alert": None },
     "모낭염": { "description": "털구멍 세균 감염인 '모낭염'이 의심됩니다.", "advice": "항생제 연고나 파우더를 사용하십시오. 면도 시 가위나 전기 클리퍼를 사용하여 자극을 줄이십시오.", "emergency_alert": None },
     "곰팡이 감염": { "description": "곰팡이균에 의한 '진균 감염'이 의심됩니다.", "advice": "일반 파우더는 효과가 없습니다. 항진균제 처방을 위해 약국이나 병원을 방문하십시오.", "emergency_alert": None },
-    "알레르기": { "description": "제품 성분에 반응하는 '알레르기 피부염'이 의심됩니다.", "advice": "사용 중인 장루판 브랜드를 변경하십시오. 심하면 스테로이드 로션 처방이 필요합니다.", "emergency_alert": None },
+    "알레르기": { "description": "제품 성분에 반응하는 '알레르기 피부염'이 의심됩니다.", "advice": "사용 중인 장루판이나 장루주머니를 변경하십시오. 심하면 스테로이드 로션 처방이 필요합니다.", "emergency_alert": None },
     "건선": { "description": "자가면역 질환인 '장루 주위 건선'이 의심됩니다.", "advice": "전문적인 치료가 필요하므로 병원을 방문하십시오.", "emergency_alert": None },
     "요산 결정": { "description": "소변 성분이 굳은 '요산 결정'이 의심됩니다.", "advice": "식초와 물을 1:1로 섞어 거즈에 적셔 10분간 올려두면 녹습니다. 이후 물로 씻어내세요.", "emergency_alert": None },
     "육아종": { "description": "붉은 살점이 덧자란 '육아종'이 의심됩니다.", "advice": "출혈이 잦으니 문지르지 마시고 피부를 말려주세요. 심하면 병원에서 제거해야 합니다.", "emergency_alert": None },
@@ -314,5 +314,6 @@ TREATMENT_DATA = {
     "흉터/색소침착": { "description": "수술이나 과거 상처로 인한 색소침착입니다.", "advice": "현재 문제가 없는 상태입니다. 평소대로 관리하십시오.", "emergency_alert": None },
     "정상": { "description": "장루와 피부가 건강합니다.", "advice": "현재 상태가 아주 좋습니다. 주기적으로 관리해주세요!", "emergency_alert": None }
 }
+
 
 
